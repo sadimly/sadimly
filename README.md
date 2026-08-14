@@ -8,7 +8,8 @@
 <a href="https://linkedin.com/in/sadimsaifi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadimsaifi" height="30" width="40" /></a>
 </p>
 <img data-importer="snake" src="https://raw.githubusercontent.com/sadimly/sadimly/snake-output/snake.svg" alt="Snake animation" />
-
+<br>
+<hr>
 ###
 
 <h3 align="left">Languages and Tools:</h3>
